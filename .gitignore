@@ -1,0 +1,12 @@
+# Folders
+/target
+.idea
+src/test
+
+# Md files
+HELP.md
+
+
+application.properties
+application.yml
+
